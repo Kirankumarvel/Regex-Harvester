@@ -16,7 +16,7 @@ This project demonstrates how to extract and process data using Regular Expressi
 ```
 📦 Regex-Harvester/
 │── 📜 README.md               # Project Overview  
-│── 📜 MainScript.py         # Main Python script  
+│── 📜 MainScript.py           # Main Python script  
 │── 📜 regex_sum_42.txt        # Sample dataset  
 │── 📜 regex_sum_2148311.txt   # Actual dataset  
 │── 📂 docs/                   # Documentation & regex guide  
