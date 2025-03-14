@@ -33,7 +33,7 @@ This project demonstrates how to extract and process data using Regular Expressi
 
 2. **Run the Python Script**
    ```sh
-   python assignment01.py
+   python MainScript.py
    ```
 
 3. **Install Dependencies (If Needed)**
