@@ -2,7 +2,7 @@ Here is the reformatted text:
 
 ---
 
-## Regex Harvester – Extracting Data with Regular Expressions in Python
+## 🔍 Regex Harvester – Extracting Data with Regular Expressions in Python
 
 This project demonstrates how to extract and process data using Regular Expressions (RegEx) in Python. The primary goal is to read a text file, find numbers using regex, and compute their sum.
 
