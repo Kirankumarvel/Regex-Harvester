@@ -45,13 +45,4 @@ This project is licensed under the MIT License.
 ### 🤝 Contributing
 Feel free to submit Pull Requests (PRs) to improve the project! Check the CONTRIBUTING.md file for details.
 
-### 🛑 Bonus: `.gitignore` (Exclude Unnecessary Files)
-```
-__pycache__/
-*.pyc
-*.pyo
-.DS_Store
-.env
-```
 
----
