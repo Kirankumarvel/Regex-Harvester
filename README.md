@@ -34,11 +34,6 @@ This project demonstrates how to extract and process data using Regular Expressi
    python MainScript.py
    ```
 
-3. **Install Dependencies (If Needed)**
-   Ensure you have Python installed. If any dependencies are required, install them using:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ### 🛠 Requirements
 - Python 3.x
