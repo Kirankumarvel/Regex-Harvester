@@ -1,5 +1,3 @@
-Here is the reformatted text:
-
 ---
 
 ## 🔍 Regex Harvester – Extracting Data with Regular Expressions in Python
